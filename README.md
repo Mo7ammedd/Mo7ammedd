@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **medo.mostafa22255@icloud.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡  fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
