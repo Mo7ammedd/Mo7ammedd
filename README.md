@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mostafa</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_codi-ng_1.gif">
+<img align="right" alt="coding" width="400" src="https://wykop.pl/cdn/c3201142/comment_SMYPPXJaARHT82CoRp9sbyPOfESEjv6W.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedd20&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedd20" /> </p>
 
