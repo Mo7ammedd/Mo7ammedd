@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mostafa</h1>
-<h3 align="center">🌱 I’m currently learning Computer Science
+<h3 align="center">🌱 I’m currently learning Computer Science<br>
 🌱 I am a Junior at Faculty of Computers & Informatics at Suez Canal University</h3>
 <img align="right" alt="coding" width="400" src="https://wykop.pl/cdn/c3201142/comment_SMYPPXJaARHT82CoRp9sbyPOfESEjv6W.gif">
 
