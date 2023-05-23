@@ -10,7 +10,7 @@
 - 📫 How to reach me **medo.mostafa22255@icloud.com**
 
 - ⚡  fact **I am funny**
-
+-  💬 Ask me about Technical support, technology, desktop apps, and IT
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/notmuhamedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notmuhamedd" height="30" width="40" /></a>
