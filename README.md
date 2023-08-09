@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mostafa</h1>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=25&center=true&vCenter=true&width=800&height=150&lines=Computer+Science+Student;I’m+interested+in+Fullstack;">
+</a>
+
 <h3 align="center">🌱 I’m currently learning Computer Science<br>
 🌱 I am a Junior at Faculty of Computers & Informatics at Suez Canal University</h3>
 <img align="right" alt="coding" width="400" src="https://wykop.pl/cdn/c3201142/comment_SMYPPXJaARHT82CoRp9sbyPOfESEjv6W.gif">
