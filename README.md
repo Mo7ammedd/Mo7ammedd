@@ -1,8 +1,9 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=5002&pause=1000&color=F7F7F7&background=FFE51100&repeat=false&width=435&lines=Hi%2CI'm+Mohammed+Mostafa" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">
+    Hi, I'm Mohemmed Mostafa
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+     <div align="center">
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=mo7ammedd&label=Profile%20views&color=0e75b6&style=flat" alt="mo7ammedd" /> </p>
+  </div>
 
 
 
