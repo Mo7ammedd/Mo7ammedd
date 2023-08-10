@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohammed Mostafa</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=5002&pause=1000&color=F7F7F7&background=FFE51100&width=435&lines=Hi%2CI'm+Mohammed+Mostafa" alt="Typing SVG" />
+  </a>
+</div>
+
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=25&center=true&vCenter=true&width=800&height=150&lines=Computer+Science+Student;I’m+interested+in+Fullstack;">
 </a>
