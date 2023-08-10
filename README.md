@@ -2,9 +2,10 @@
     Hi, I'm Mohemmed Mostafa
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
      <div align="center">
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=mo7ammedd&label=Profile%20views&color=0e75b6&style=flat" alt="mo7ammedd" /> </p>
+           <p align="center"> <img src="https://komarev.com/ghpvc/?username=mo7ammedd&label=Profile%20views&color=0e75b6&style=flat" alt="mo7ammedd" /> </p>
+     </h1>
   </div>
- <hr>
+ 
 
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
