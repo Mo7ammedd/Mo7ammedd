@@ -15,7 +15,7 @@
 🌱 I am a Junior at Faculty of Computers & Informatics at Suez Canal University</h3>
 <img align="right" alt="coding" width="400" src="https://wykop.pl/cdn/c3201142/comment_SMYPPXJaARHT82CoRp9sbyPOfESEjv6W.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammedd20&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedd20" /> </p>
+
 
 <p align="center">
   <a href="https://twitter.com/notmuhamedd" target="blank">
