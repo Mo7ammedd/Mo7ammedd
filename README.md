@@ -51,3 +51,8 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mo7ammedd&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<details>
+    <summary><strong><i>Spotify Recently Played<i></strong> :arrow_forward:</summary>
+    <br />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m5unfyk7h4lp3am6x2lj25tmcm" />
+</details>
