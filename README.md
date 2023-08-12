@@ -93,3 +93,53 @@
 </details>
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/Mo7ammedd/Backend-NodeJS-Summer-Training-">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo7ammedd&repo=Backend-NodeJS-Summer-Training-&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Mo7ammedd/youtube-summary">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo7ammedd&repo=youtube-summary&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Mo7ammedd/hospital-system-py">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username==mo7ammedd&repo=hospital-system-py&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Mo7ammedd/Hospital-system">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mo7ammedd&repo=Hospital-system&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Mo7ammedd/nodejs-e-commerce">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mo7ammedd&repo=nodejs-e-commerce&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Mo7ammedd/download-pdf">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mo7ammedd&repo=download-pdf&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Mo7ammedd/color-quiz-application">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mo7ammedd&repo=color-quiz-application&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Mo7ammedd/Mo7ammedd">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mo7ammedd&repo=mo7ammedd&theme=tokyonight" alt="GitHub Stats" />
+    	</a>   
+	<a href="https://github.com/Mo7ammedd/color-quiz-application">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mo7ammedd&repo=color-quiz-application&theme=tokyonight" alt="GitHub Stats" />
+    	</a>    	     	    	
+ 	<a href="https://github.com/Mo7ammedd/analysis-user-feeling">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mo7ammedd&repo=analysis-user-feeling&theme=tokyonight" alt="GitHub Stats" />
+    	</a>    	     	    	
+ 	<a href="https://github.com/Mo7ammedd/e-shop">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mo7ammedd&repo=e-shop&theme=tokyonight" alt="GitHub Stats" />
+    	</a>    	     	    	
+ 	<a href="https://github.com/Mo7ammedd/it_project">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mo7ammedd&repo=it_project&theme=tokyonight" alt="GitHub Stats" />
+    	</a>    	     	    	
+ 	
+    	
+  </p>
+</div>
+</details>
+
+</br></br>
+
+
+<hr> 
+
