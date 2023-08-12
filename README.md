@@ -97,13 +97,13 @@
 <div>
   <p align="center">
 	<a href="https://github.com/Mo7ammedd/Backend-NodeJS-Summer-Training-">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo7ammedd&repo=Backend-NodeJS-Summer-Training-&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo7ammedd&repo=Backend-NodeJS-Summer-Training-&theme=tokyonight" 
     	</a>
 	<a href="https://github.com/Mo7ammedd/youtube-summary">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo7ammedd&repo=youtube-summary&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/Mo7ammedd/hospital-system-py">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username==mo7ammedd&repo=hospital-system-py&theme=tokyonight" alt="GitHub Stats" />
+<a href="https://github.com/Mo7ammedd/hospital-system-py">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo7ammedd&repo=hospital-system-py&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Mo7ammedd/Hospital-system">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mo7ammedd&repo=Hospital-system&theme=tokyonight" alt="GitHub Stats" />
