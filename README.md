@@ -61,16 +61,17 @@
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
+----
 	
 <p align="center">
-   
+    <a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mo7ammedd&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"
+ height="230px"</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7ammedd&show_icons=true&theme=tokyonight" alt="Top Langs" height="230px"/>
 <br/>
- <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mo7ammedd&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7ammedd&show_icons=true&theme=tokyonight" alt="Top Langs">
-</div
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-> </p>
+  </p>
 </details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
