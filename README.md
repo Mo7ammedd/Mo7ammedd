@@ -88,7 +88,7 @@
 
 ----
 [![trophy](https://github-profile-trophy.vercel.app/?username=mo7ammedd&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>    
+  
 </p>
 	
 </details>
