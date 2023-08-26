@@ -45,6 +45,11 @@
 
 
 
+---
+
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 
 
 	
@@ -153,4 +158,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m5unfyk7h4lp3am6x2lj25tmcm" />
 </details>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
