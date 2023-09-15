@@ -155,6 +155,6 @@
 <details>
     <summary><h3>▶️ Spotify Recently Played</h3></summary>
     <br />
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dtjos6oxbpsmlnlsjfdltgltku?si=675e99059822479e" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dtjos6oxbpsmlnlsjfdltgltku" />
 </details>
 
