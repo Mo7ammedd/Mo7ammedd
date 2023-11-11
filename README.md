@@ -1,5 +1,7 @@
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
 <h1 align="center">
-    Hi, I'm Mohemed Mostafa
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
      <div align="center">
            <p align="center"> <img src="https://komarev.com/ghpvc/?username=mo7ammedd&label=Profile%20views&color=0e75b6&style=flat" alt="mo7ammedd" /> </p>
