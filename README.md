@@ -1,5 +1,7 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+	    <img src="https://github.com/Mo7ammedd/Mo7ammedd/blob/main/result.gif?raw=true" alt="Result Gif">
+
 </div>
 	
 <h1 align="center">
@@ -11,13 +13,6 @@
            <p align="center"> <img src="https://komarev.com/ghpvc/?username=mo7ammedd&label=Profile%20views&color=0e75b6&style=flat" alt="mo7ammedd" /> </p>
      </h1>
   </div>
- 
-
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=25&center=true&vCenter=true&width=800&height=150&lines=Computer+Science+Student;I’m+interested+in+Fullstack;">
-</a>
- <hr>
 <h3 align="center">🌱 I’m currently learning Computer Science<br>
 🌱 I am a Junior at Faculty of Computers & Informatics at Suez Canal University</h3>
 <img align="right" alt="coding" width="400" src="https://wykop.pl/cdn/c3201142/comment_SMYPPXJaARHT82CoRp9sbyPOfESEjv6W.gif">
