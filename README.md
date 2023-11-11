@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **medo.mostafa22255@icloud.com**
 
-- ⚡  fact **I am funny**
+- ⚡ waiting for Reputation (Taylor's Version) 🖤
 -  💬 Ask me about Technical support, technology, desktop apps, and IT
 <h3 align="left">Connect with me:</h3>
 <p align="left">
