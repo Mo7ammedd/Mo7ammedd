@@ -21,7 +21,7 @@
 
 <p align="center">
   <ahref="https://twitter.com/mohameddtv" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/mohameddtv?style=social" alt="Twitter Follow">
+  <img src="https://img.shields.io/twitter/follow/mohameddtv?style=social" alt="https://twitter.com/mohameddtv">
   </a>
 </p>
 
