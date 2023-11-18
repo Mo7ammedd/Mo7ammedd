@@ -9,9 +9,10 @@
 </body>
      <div align="center">
 	     <p align="center"> 
-<a href="https://twitter.com/mohameddtv" target="_blank">
+      <a href="https://twitter.com/mohameddtv" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=mo7ammedd&label=Profile%20views&color=000000&style=flat" alt="mo7ammedd" />
 </a>
+
 </p>
  </h1>
   </div>
@@ -22,7 +23,7 @@
 
 
 <p align="center">
-  <ahref="https://twitter.com/mohameddtv" target="_blank">
+  <a href="https://twitter.com/mohameddtv" target="_blank">
   <img src="https://img.shields.io/twitter/follow/mohameddtv?style=social" alt="https://twitter.com/mohameddtv">
   </a>
 </p>
