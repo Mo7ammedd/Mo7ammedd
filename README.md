@@ -21,8 +21,8 @@
 
 
 <p align="center">
-  <a href="https://twitter.com/mohameddtv" target="blank">
-<img src="https://img.shields.io/twitter/follow/mohameddtv?logo=twitter&style=for-the-badge&color=808080&labelColor=000000" alt="mohameddtv" />
+  <ahref="https://twitter.com/mohameddtv" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/mohameddtv?style=social" alt="Twitter Follow">
   </a>
 </p>
 
