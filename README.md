@@ -16,7 +16,7 @@
   </div>
 <h3 align="center">🌱 I’m currently learning Computer Science<br>
 🌱 I am a Junior at Faculty of Computers & Informatics at Suez Canal University</h3>
-<img align="right" alt="coding" width="400" src="https://wykop.pl/cdn/c3201142/comment_SMYPPXJaARHT82CoRp9sbyPOfESEjv6W.gif">
+<img align="right" alt="coding" width="300" height="300" src="https://spotify-github-profile.vercel.app/api/view?uid=31dtjos6oxbpsmlnlsjfdltgltku&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true">
 
 
 
