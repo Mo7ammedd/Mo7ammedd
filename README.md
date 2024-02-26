@@ -1,14 +1,9 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
-        <img src="https://github.com/Mo7ammedd/Mo7ammedd/blob/main/result.gif?raw=true" alt="Result Gif">
-    
-
-
-</div>
-	<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+      
 
 	
-<h1 align="center">
+
 
 </body>
      <div align="center">
