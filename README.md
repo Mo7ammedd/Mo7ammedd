@@ -187,7 +187,47 @@
 </div>
 </details>
 
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mo7ammedd&theme=tokyonight_duo" alt="mo7ammedd" /></p>
+
+</details>
+
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+
+<p align="center">
+    <a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mo7ammedd&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"
+ height="230px"</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7ammedd&show_icons=true&theme=tokyonight" alt="Top Langs" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mo7ammedd&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">	
+
+</details>
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+[![trophy](https://github-profile-trophy.vercel.app/?username=mo7ammedd&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
+</details>
 
 <details>
     <summary><h3>▶️ Spotify Recently Played</h3></summary>
