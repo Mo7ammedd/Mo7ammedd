@@ -7,11 +7,9 @@
 
      
 
-</body>
-     <div align="center">
-	     
-![badge](https://aktive.kerolloz.dev/egypt/Mo7ammedd?label=&color=cyan&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Egypt)
-
+<div align="center">
+	<img src="https://aktive.kerolloz.dev/egypt/Mo7ammedd?label=&color=black&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Egypt"
+     </div>     
    <p align="center"> 
   <a href="https://twitter.com/mohameddtv" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=mo7ammedd&label=Profile%20views&color=000000&style=flat" alt="mo7ammedd" />
