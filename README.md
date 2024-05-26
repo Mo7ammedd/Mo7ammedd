@@ -239,5 +239,8 @@
 <details>
     <summary><h3>▶️ Spotify Recently Played</h3></summary>
     <br />
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dtjos6oxbpsmlnlsjfdltgltku" />
+  <a href="https://open.spotify.com/user/31dtjos6oxbpsmlnlsjfdltgltku">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dtjos6oxbpsmlnlsjfdltgltku&count=10&unique=false" alt="Spotify recently played"  />
+  </a>
+
 </details>
