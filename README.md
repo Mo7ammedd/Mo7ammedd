@@ -18,7 +18,7 @@
   </div>
 <h3 align="center">🌱 I’m currently learning Computer Science<br>
 🌱 I am a Junior at Faculty of Computers & Informatics at Suez Canal University</h3>
-<img align="right" alt="coding" width="400" src="https://i.imgur.com/1DnJgVw.gif">
+<img align="right" alt="coding" width="350" src="https://pbs.twimg.com/media/FfhDdsaXwAIPTyl?format=jpg&name=large">
 
 
 
