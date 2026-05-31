@@ -2,15 +2,15 @@
 
 **Software Engineer | Backend Developer | Open-Source Contributor**
 
-Backend-focused Software Engineer experienced in building scalable, reliable, and high-performance systems. Skilled in designing cloud-native applications, APIs, and distributed systems with a strong focus on performance, maintainability, and clean backend architecture.
+im Mohammed Mostafa, a software engineer and cs graduate from Suez Canal University. i mostly work on backend systems, distributed architectures, databases, and infrastructure
+i enjoy solving complex engineering problems and building software thats scalable, reliable, and actually survives production traffic.
 
 ---
 
 ## Technical Skills
-
 ### Languages & Frameworks
 
-C#, ASP.NET Core, Node.js, Express.js, Python, C++, React Native, Next.js
+C#, ASP.NET Core, Node.js, Express.js, NestJS, Hono, Bun, Python, C++, React Native, Next.js
 
 ### Databases
 
@@ -36,3 +36,6 @@ Clean Architecture, CQRS, DDD, SOLID, Design Patterns, OOP, Algorithms, Networki
 * **LinkedIn:** [linkedin.com/in/mohammedtv](https://linkedin.com/in/mohammedtv)
 * **GitHub:** [github.com/Mo7ammedd](https://github.com/Mo7ammedd)
 * **Email:** [MohammedMostafaNazih@gmail.com](mailto:MohammedMostafaNazih@gmail.com)
+<div align="center">
+     <img src="https://streak-stats.demolab.com?user=mo7ammedd&theme=gruvbox"  />
+</div>
